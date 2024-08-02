@@ -1,2 +1,2 @@
 # Creating-Recommendation-Systems-Using-Nearest-Neighbors
-aa
+This project focuses on developing movie recommendation systems using Nearest Neighbors algorithms, leveraging the Pandas and NumPy libraries. The dataset includes a movies dataset with movieId and title, and a ratings dataset with userId, movieId, and rating. By analyzing user ratings, the system generates personalized movie recommendations. The inputs consist of user IDs and their corresponding movie ratings, while the output is a list of recommended movies tailored to user preferences. This recommendation system aims to enhance user experience by suggesting movies similar to those they have enjoyed, utilizing historical rating data to identify and recommend new favorites.
